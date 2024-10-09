@@ -1,0 +1,31 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder (if using venv)
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings and workspace folder
+.vscode/
+*.code-workspace
+
+# Logs and local settings
+*.log
+
+# Cache files
+*.pyc
+*.pyo
+
+# Ignore backup files from editors
+*~
+
+# macOS specific
+.DS_Store
+
+# If using coverage reports
+htmlcov/
+.coverage
