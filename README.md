@@ -18,7 +18,7 @@ This is a command-line Tic-Tac-Toe game implemented in Python, where players can
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sxdisbr/tic-tac-toe.git
+   git clone https://github.com/sxdisbr/tic_tac_toe.git
    cd tic-tac-toe
    ```
 
